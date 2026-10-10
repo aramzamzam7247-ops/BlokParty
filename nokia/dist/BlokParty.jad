@@ -1,0 +1,9 @@
+MIDlet-1: BlokParty, /icon.png, bp.BlokMIDlet
+MIDlet-Name: BlokParty
+MIDlet-Vendor: BlokParty
+MIDlet-Version: 1.0.0
+MIDlet-Description: Blok Party client
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-URL: BlokParty.jar
+MIDlet-Jar-Size: 16861

@@ -1,0 +1,1 @@
+package java.lang; public class Throwable extends Object { public Throwable(){} public Throwable(String s){} public String getMessage(){return null;} public void printStackTrace(){} public String toString(){return null;} }

@@ -1,0 +1,1 @@
+package java.io; public class ByteArrayOutputStream extends OutputStream { public ByteArrayOutputStream(){} public ByteArrayOutputStream(int n){} public void write(int b){} public byte[] toByteArray(){return null;} public int size(){return 0;} public void reset(){} }

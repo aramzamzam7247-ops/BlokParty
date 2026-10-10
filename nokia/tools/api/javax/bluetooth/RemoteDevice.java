@@ -1,0 +1,1 @@
+package javax.bluetooth; public class RemoteDevice { protected RemoteDevice(String a){} public String getFriendlyName(boolean ask) throws java.io.IOException{return null;} public final String getBluetoothAddress(){return null;} }

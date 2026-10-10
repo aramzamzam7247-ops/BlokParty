@@ -1,0 +1,1 @@
+package javax.microedition.lcdui; public class Gauge extends Item { public static final int INDEFINITE=-1, CONTINUOUS_IDLE=0, INCREMENTAL_IDLE=1, CONTINUOUS_RUNNING=2, INCREMENTAL_UPDATING=3; public Gauge(String l,boolean i,int max,int v){} }

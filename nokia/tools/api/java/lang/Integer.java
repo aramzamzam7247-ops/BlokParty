@@ -1,0 +1,1 @@
+package java.lang; public final class Integer { public Integer(int v){} public int intValue(){return 0;} public static String toString(int i){return null;} public static String toHexString(int i){return null;} public static int parseInt(String s) throws NumberFormatException {return 0;} }

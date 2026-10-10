@@ -1,0 +1,1 @@
+package javax.microedition.lcdui; public abstract class Displayable { public void addCommand(Command c){} public void removeCommand(Command c){} public void setCommandListener(CommandListener l){} public int getWidth(){return 0;} public int getHeight(){return 0;} public void setTitle(String s){} public String getTitle(){return null;} }

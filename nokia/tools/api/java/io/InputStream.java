@@ -1,0 +1,1 @@
+package java.io; public abstract class InputStream { public abstract int read() throws IOException; public int read(byte[] b,int o,int l) throws IOException{return 0;} public void close() throws IOException{} public int available() throws IOException{return 0;} }
